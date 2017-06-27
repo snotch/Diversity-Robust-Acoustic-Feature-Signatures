@@ -1,10 +1,6 @@
-# Diversity-Robust-Acoustic-Feature-Signatures
-
-The code and dataset used in the 
-
 # Description
-to generate the experimental results
+The code and dataset to generate the experimental results used in the paper "Diversity-Robust Acoustic Feature Signatures Based on Multiscale Fractal Dimension for Similarity Search of Environmental Sounds".
 
 # Filelist
-- freesound_dataset.zip
+
 
