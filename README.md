@@ -23,6 +23,6 @@ to be done soon
 to be done soon
 
 # Contact Information
-Motohiro Sunouchi \\
-Sapporo city university \\
+Motohiro Sunouchi  
+Sapporo city university  
 sunouchi@media.scu.ac.jp
