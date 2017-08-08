@@ -11,7 +11,10 @@ We have confirmed that the code and dataset to generate the experimental results
 gcc4.4, sox library
 
 # Major Component Description
-to be done soon
+
+- Dataset including 3,000 sounds.
+https://labs.43d.jp/170701_journal/fs3000_dataset.tar.bz2
+(20GB)
 
 # Detailed Set-up Instructions
 to be done soon
