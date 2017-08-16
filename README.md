@@ -2,10 +2,10 @@
 These files are the code and dataset to generate the experimental results used in the paper "Diversity-Robust Acoustic Feature Signatures Based on Multiscale Fractal Dimension for Similarity Search of Environmental Sounds".
 
 # Size
-Total size is ... GB. (to be fixed)
+Total size is 17GB.
 
 # Platform
-We have confirmed that the code and dataset to generate the experimental results can work on Linux.
+Linux OS
 
 # Environment
 gcc4.4, sox library
